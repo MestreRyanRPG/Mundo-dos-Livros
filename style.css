@@ -3,8 +3,11 @@ text-align: center;
 }
 
 body {
-    background: #CCCCCC;
+    background: #adabab;
 }
 #livro{
     width: 16%;
+}
+strong {
+    color: rgb(0, 238, 255);
 }
